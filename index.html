@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"/>
+<title>Calculadora de nota UNIP</title>
+<link rel="stylesheet" href="./css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap" rel="stylesheet">
+</head>
+<body>
+        <section class="nav">
+            <div class="nav-bar">
+                <img src="./imagens/matematica.png" class="logo">
+                <div class="nav-text">
+                <ol><a href="https://github.com/Guilherme-Sbizero" onmousemove="mouseEnterMouse1()"onmouseleave=" mouseLeaveMouse1()" id="github">GitHub</a></ol>
+                <ol><a href="https://www.linkedin.com/in/guilherme-augusto-sbizero-correa-5894581b7"onmousemove="mouseEnterMouse2()"onmouseleave=" mouseLeaveMouse2()" id="linkedin">Linkedin</a></ol>
+                </div>
+            </div>
+        </section>
+        <hr>
+        <main>
+            <section class="conteudo">
+                <h1>CALCULADORA MEDIA UNIP</h1>
+
+                <label>Nota NP1: </label><input type="number" id="nota1" onkeypress='return event.charCode >= 48 && event.charCode <= 57'>
+                <label>Nota NP2: </label><input type="number" id="nota2"onkeypress='return event.charCode >= 48 && event.charCode <= 57' >
+                <label>Exame: </label><input type="number" id="exame"onkeypress='return event.charCode >= 48 && event.charCode <= 57' >
+                <button type="button" class="button" name="button" onmousedown="clickButton()"
+                onmouseup="unClickButton()" onmousemove="mouseEnterMouse()"
+                onmouseleave=" mouseLeaveMouse()" onclick="calcularMedia()">Calcular</button>
+                <br><br><br>
+                <div id="alerta">
+                    <p id="aviso"></p>
+                    <p id="nota"></p>
+                </div>
+            </section>
+            <section class="banner">
+                <img src="./imagens/math-banner.png">
+            </section>
+        </main>
+        <script src="./javascript/script.js"></script>
+    </body>
+</html>
