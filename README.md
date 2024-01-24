@@ -10,4 +10,4 @@
 
 ## Para saber mais sobre o sistema de aprovação da UNIP confira o link abaixo que te levara para o site da Instituição 
 
-👉[Unip link]((https://www.unip.br/servicos/aluno/manual/ead/avaliacao-aprendizagem.aspx#:~:text=AVALIA%C3%87%C3%83O%20DE%20APRENDIZAGEM%20%E2%80%93%20A%20PARTIR%20DE%202023&text=reprovado%20na%20disciplina%3B-,a)%20Se%20a%20M%C3%A9dia%20da%20Disciplina%20MD%20for%20igual%20ou,aluno%20estar%C3%A1%20aprovado%20na%20disciplina.)
+👉[Unip link](https://www.unip.br/servicos/aluno/manual/ead/avaliacao-aprendizagem.aspx#:~:text=AVALIA%C3%87%C3%83O%20DE%20APRENDIZAGEM%20%E2%80%93%20A%20PARTIR%20DE%202023&text=reprovado%20na%20disciplina%3B-,a%20Se%20a%20M%C3%A9dia%20da%20Disciplina%20MD%20for%20igual%20ou,aluno%20estar%C3%A1%20aprovado%20na%20disciplina.)
